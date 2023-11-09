@@ -1,0 +1,67 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Heeriye",
+      "url": "https://i.ytimg.com/vi/RLzC55ai0eo/sddefault.jpg?v=6524f53f",
+      "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo"
+    },
+    {
+      "id": "2",
+      "caption": "Chaleya",
+      "url": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    },
+    {
+      "id": "4",
+      "caption": "Starboy",
+      "url": "https://m.media-amazon.com/images/I/61blLQFaG3L._AC_UF1000,1000_QL80_.jpg",
+      "embedLink": "https://www.youtube.com/embed/34Na4j8AVgA"
+    },
+    {
+      "id": "6",
+      "caption": "Lean On",
+      "url": "https://th.bing.com/th/id/R.116a5320010227a3f258d893d06dabf0?rik=qPPMy%2foO9YLWZQ&riu=http%3a%2f%2frefitrev.com%2fwp-content%2fuploads%2f2015%2f10%2flean-on.jpg&ehk=Qsqol%2fZdrQlNdQpTd6PaQsFdmL9whhH%2bZKvAJ5X9NaA%3d&risl=&pid=ImgRaw&r=0",
+      "embedLink": "https://www.youtube.com/embed/YqeW9_5kURI"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Hindi",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Lovely",
+          "url": "https://i.pinimg.com/originals/65/c6/81/65c68103b18e4c25e66b5972fbcde910.jpg",
+          "embedLink": "https://www.youtube.com/embed/V1Pl8CzNzCw"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Tamil",
+      "allVideos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Starboy",
+      "embedLink": "https://www.youtube.com/embed/34Na4j8AVgA",
+      "timestamp": "08/11/2023, 11:39:22",
+      "id": 1
+    },
+    {
+      "caption": "Alone",
+      "embedLink": "https://www.youtube.com/embed/1-xGerv5FOk",
+      "timestamp": "08/11/2023, 11:39:26",
+      "id": 2
+    },
+    {
+      "caption": "Lovely",
+      "embedLink": "https://www.youtube.com/embed/V1Pl8CzNzCw",
+      "timestamp": "08/11/2023, 11:39:29",
+      "id": 3
+    }
+  ]
+}
